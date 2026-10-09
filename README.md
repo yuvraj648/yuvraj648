@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yuvraj%20Thakur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Yuvraj Thakur profile banner"/>
 
@@ -9,12 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Exploring+Machine+Learning;Developing+practical+software;Learning+by+building" alt="Animated introduction"/>
 
-<a href="https://github.com/yuvraj648">
-  <img src="https://img.shields.io/badge/GitHub-yuvraj648-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-yuvraj648-181717?style=for-the-badge\&logo=github)](https://github.com/yuvraj648)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yuvraj-thakur-322614331/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@YuvrajThakurTech)
 
 </div>
 
@@ -22,12 +18,13 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 Interested in Agentic AI, LLMs, and AI automation.
-- 🧠 Exploring Machine Learning and Computer Vision.
-- 🐍 Building projects with Python and modern development tools.
-- 🚗 Exploring autonomous vehicle simulation and intelligent systems.
-- 🔌 Developing hardware-software prototypes with ESP32 and Arduino.
-- 🌱 Always learning through hands-on projects.
+* 🤖 Interested in Agentic AI, LLMs, and AI automation.
+* 🧠 Exploring Machine Learning and Computer Vision.
+* 🐍 Building projects with Python and modern development tools.
+* 🚗 Exploring autonomous vehicle simulation and intelligent systems.
+* 🔌 Developing hardware-software prototypes with ESP32 and Arduino.
+* 🎥 Sharing technology projects and coding experiments on YouTube.
+* 🌱 Always learning through hands-on projects.
 
 ## 🛠️ Technologies & Tools
 
@@ -39,14 +36,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 Agentic AI | AI-powered automation and voice-based workflows |
-| 🌊 DeepDrishti | Biodiversity classification using marine 18S rRNA data |
-| 🅿️ Smart Parking | RFID access control and sensor-based parking detection |
+| Project                          | Description                                            |
+| -------------------------------- | ------------------------------------------------------ |
+| 🤖 Agentic AI                    | AI-powered automation and voice-based workflows        |
+| 🌊 DeepDrishti                   | Biodiversity classification using marine 18S rRNA data |
+| 🅿️ Smart Parking                | RFID access control and sensor-based parking detection |
 | 🚗 Autonomous Vehicle Simulation | Path planning and collision avoidance for Indian roads |
 
-*Add repository links to these projects after confirming the correct repository names and making the relevant code public.*
+*Add repository links to these projects once the correct public repositories are available.*
 
 ## 📊 GitHub Statistics
 
@@ -71,6 +68,10 @@
 ---
 
 <div align="center">
+
+### 🤝 Connect With Me
+
+💼 [LinkedIn Profile](https://www.linkedin.com/in/yuvraj-thakur-322614331/) · ▶️ [YouTube Channel](https://www.youtube.com/@YuvrajThakurTech) · 💻 [GitHub Profile](https://github.com/yuvraj648)
 
 ⭐ Thanks for visiting my profile!
 
